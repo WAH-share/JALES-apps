@@ -1,0 +1,21 @@
+About This Software
+This software is released under the Creative Commons Attribution-NoDerivatives (CC BY-ND) license, which means:
+
+License Terms:
+1. Usage Rights:
+- You are free to use this software for personal or commercial purposes.
+
+2. Redistribution:
+- You are allowed to redistribute the software, provided you pass along the original version of the software without modification. Redistribution should not alter or adapt the software in any way.
+
+3. No Modifications:
+- Modification of the software is not allowed. You cannot alter, transform, or build upon the software in any way.
+
+4. Attribution:
+- When using or redistributing this software, you must provide proper attribution to the original author. This can be done by including a statement such as:
+"This software is provided by [Author Name] and is licensed under the Creative Commons Attribution-NoDerivatives (CC BY-ND) License."
+
+5. No Warranty:
+- The software is provided "as-is," without any warranty or guarantee of its functionality or suitability for any specific purpose.
+
+By using this software, you agree to comply with the terms of the CC BY-ND license.
