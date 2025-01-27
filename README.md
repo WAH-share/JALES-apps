@@ -1,21 +1,23 @@
 # JALES
-## _Just Another LEarning Software_
+## _Just Another LEarning Software_:man_teacher:
 ###### _Version 0.93 Beta_
-
-JALES is a software GUI initially created for sharing and teaching how to use the microcontroller board you’ve designed, aimed at users such as teachers, trainers, students, colleges, hobbyists, and more..  
+Hi Everyone..  
+**JALES** is a software GUI initially created for sharing and teaching how to use the microcontroller board you’ve designed, aimed at users such as teachers, trainers, students, colleges, hobbyists, and more..  
 By using JALES software GUI, learning to use your board becomes more engaging, easier, adds additional value, and is more enjoyable..
+> JALES adalah GUI perangkat lunak yang awalnya dibuat untuk berbagi dan mengajarkan cara menggunakan _Board_ mikrokontroller yang telah kamu rancang, ditujukan kepada pengguna seperti guru, pengajar, siswa, mahasiswa, penghobi, dan banyak lagi.
+> Dengan menggunakan GUI perangkat lunak JALES, belajar menggunakan _Board_ kamu menjadi lebih menarik, lebih mudah, memberikan nilai tambah, dan lebih menyenangkan.
 
 But of course, you can use it for any purpose you can imagine.  
 Let’s share your ideas and keep learning... learning... learning...
+> Tapi tentu saja, kamu bisa menggunakan-nya untuk keperluan apapun yg bisa kamu bayangkan.
+> Semangat berbagi ide kamu dan tetap belajar... belajar... belajar...
 
-Imam Syafi'i says :
-
-> _"Knowledge is not what is memorised. Knowledge is what benefits."_  
+Imam Syafi'i says :  
+_"Knowledge is not what is memorised. Knowledge is what benefits."_  
+_"Whoever is unable to withstand the fatigue of learning must be able to withstand the pain of ignorance."_  
+> Imam Syafi'i berkata :
 > "Ilmu itu bukan yang dihafal, tetapi ilmu itu yang memberi manfaat."
-
-> _"Whoever is unable to withstand the fatigue of learning must be able to withstand the pain of ignorance."_  
 > “Barang siapa yang tidak mampu menahan lelahnya belajar, maka ia harus mampu menahan perihnya kebodohan”.
-
 
 ##
 ## ✨ Information and Installation
