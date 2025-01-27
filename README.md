@@ -2,18 +2,18 @@
 ## _Just Another LEarning Software_
 ###### _Version 0.93 Beta_
 
-JALES is a software GUI initially created for sharing and teaching how to use the microcontroller board you’ve designed, aimed at users such as teachers, trainers, students, colleges, hobbyists, and more..
+JALES is a software GUI initially created for sharing and teaching how to use the microcontroller board you’ve designed, aimed at users such as teachers, trainers, students, colleges, hobbyists, and more..  
 By using JALES software GUI, learning to use your board becomes more engaging, easier, adds additional value, and is more enjoyable..
 
-But of course, you can use it for any purpose you can imagine.
+But of course, you can use it for any purpose you can imagine.  
 Let’s share your ideas and keep learning... learning... learning...
 
 Imam Syafi'i says :
 
-> _"Knowledge is not what is memorised. Knowledge is what benefits."_
+> _"Knowledge is not what is memorised. Knowledge is what benefits."_  
 > "Ilmu itu bukan yang dihafal, tetapi ilmu itu yang memberi manfaat."
 
-> _"Whoever is unable to withstand the fatigue of learning must be able to withstand the pain of ignorance."_
+> _"Whoever is unable to withstand the fatigue of learning must be able to withstand the pain of ignorance."_  
 > “Barang siapa yang tidak mampu menahan lelahnya belajar, maka ia harus mampu menahan perihnya kebodohan”.
 
 
