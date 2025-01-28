@@ -1,9 +1,10 @@
 # JALES
-## _Just Another LEarning Software_:man_teacher:
+## _Just Another LEarning Software_ :man_teacher:
 ###### _Version 0.93 Beta_
 Hi Everyone..  
 **JALES** is a software GUI initially created for sharing and teaching how to use the microcontroller board you’ve designed, aimed at users such as teachers, trainers, students, colleges, hobbyists, and more..  
 By using JALES software GUI, learning to use your board becomes more engaging, easier, adds additional value, and is more enjoyable..
+> Hai semuanya...  
 > JALES adalah GUI perangkat lunak yang awalnya dibuat untuk berbagi dan mengajarkan cara menggunakan _Board_ mikrokontroller yang telah kamu rancang, ditujukan kepada pengguna seperti guru, pengajar, siswa, mahasiswa, penghobi, dan banyak lagi.  
 > Dengan menggunakan GUI perangkat lunak JALES, belajar menggunakan _Board_ kamu menjadi lebih menarik, lebih mudah, memberikan nilai tambah, dan lebih menyenangkan.
 
@@ -32,9 +33,9 @@ _"Whoever is unable to withstand the fatigue of learning must be able to withsta
 
 ## ✨ Contact
 - Email : [WAH-Learning](mailto:wah.learning@gmail.com).
-- Youtube : [WAH-Video](https://www.youtube.com/@WAH.Learning)
-- Facebook : [WAH-Facebook](https://www.facebook.com/profile.php?id=100094907858032)
-- Instagram : [WAH-Instagram](https://www.instagram.com/wah.digital.solution/)
+- Youtube : [WAH-Video](https://www.youtube.com/@WAH.Learning).
+- Facebook : [WAH-Facebook](https://www.facebook.com/profile.php?id=100094907858032).
+- Instagram : [WAH-Instagram](https://www.instagram.com/wah.digital.solution/).
 
 ##
 ## END of README.md
