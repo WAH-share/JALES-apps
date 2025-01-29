@@ -1,6 +1,7 @@
 # JALES
 ## _Just Another LEarning Software_ :man_teacher:
-###### _Version 0.93 Beta_
+###### _Version 0.94 Beta_
+###### _2025-01-30 - README.md last update_
 Hi Everyone..  
 **JALES** is a software GUI initially created for sharing and teaching how to use the microcontroller board you’ve designed, aimed at users such as teachers, trainers, students, colleges, hobbyists, and more..  
 By using JALES software GUI, learning to use your board becomes more engaging, easier, adds additional value, and is more enjoyable..
@@ -26,7 +27,7 @@ _"Whoever is unable to withstand the fatigue of learning must be able to withsta
 - Currently available only for Windows OS.
 - Free for personal or commersial use.
 - Download ZIP file and Extract.
-- Youtube Tutorial : [On-Progress](https://www.youtube.com/@WAH.Learning)
+- You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
 
 ## ✨ License
 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
