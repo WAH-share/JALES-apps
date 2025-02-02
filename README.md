@@ -21,7 +21,6 @@ _"Whoever is unable to withstand the fatigue of learning must be able to withsta
 > "Ilmu itu bukan yang dihafal, tetapi ilmu itu yang memberi manfaat."  
 > “Barang siapa yang tidak mampu menahan lelahnya belajar, maka ia harus mampu menahan perihnya kebodohan”.
 
-##
 ## ✨ Information and Installation
 
 - Currently available only for Windows OS.
