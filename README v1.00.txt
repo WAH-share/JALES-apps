@@ -29,10 +29,15 @@ wah.digital.solution@gmail.com
 ## Installation
 Currently this application only tested and support Windows OS.
 To install and use "JALES" apps, follow the steps below:
-1. Download the latest release from the [[[Releases page]]].
-2. Unzip the downloaded file in any drive (Recomended not inside C:\).
-3. You can RUN by click "JALES.exe" file.
-4. Installation DONE.
+1. Download and Install .Net Framework 4.8
+   Click here : https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-offline-installer
+2. Download Newest update on this page JALES-App Release.
+   Click here : https://github.com/WAH-share/JALES-apps/releases
+3. Unzip the downloaded file in any drive (Recomended not inside C:\).
+4. You can RUN by click "JALES.exe" file.
+5. Installation DONE.
+
+Note : Please let me know if there is any issue.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ## Usage
@@ -42,7 +47,9 @@ There are 2 sections,
 For End Users :
 1. Click the "Open File" button.
 2. Select file with extention *.pzJales.
-3. And have a good learning experience.
+3. You can download free tutorial from FTWL.
+   Click here : https://github.com/WAH-share/FTWL/releases
+4. And have a good learning experience.
 
 For Board Creator :
 To get better experience you can follow tutorial on youtube.
@@ -72,17 +79,17 @@ email us at :
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Release :
-- 2025-05-22 JALES v1.00-2505 application Initial Release
+- 2025-05-25 JALES v1.00-2505 application Initial Release
 
 
 To Do List :
-- Refactoring Code.. Again..
 - Handle bigger image.
 - Add Circle Part.
 - Add popup hint/message.
 - Add message background.
 - Add sound.
 - Add moving picture (*.gif, etc).
+- Add tools software additional features.
 - Add feature to recieve and sending data to hardware
 - Migrate from C# WinForm to C# WPF or Flutter -> if Possible :D.
 - Use Cross-Platform Programming Language (Big possibilities).

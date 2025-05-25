@@ -25,11 +25,14 @@ _"Whoever is unable to withstand the fatigue of learning must be able to withsta
 
 - Currently available only for Windows OS.
 - Free for personal or commersial use.
-- Download ZIP file for [JALES-App Here.](https://github.com/WAH-share/JALES-apps/archive/refs/heads/main.zip)
+- Download and Install [.Net Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-offline-installer)
+- Download Newest update on this page [JALES-App Release.](https://github.com/WAH-share/JALES-apps/releases)
 - Extract to your drive (Recomended not drive C:\).
-- Download ZIP file tutorial here [FTWL.](https://github.com/WAH-share/FTWL/archive/refs/heads/main.zip)
+- Download Newest tutorial on this page [FTWL List](https://github.com/WAH-share/FTWL/releases)
 - Extract and put inside folder of JALES-App.
 - You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
+
+Note : Please let me know if there is any issue.
 
 ## ✨ License
 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
